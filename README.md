@@ -7,7 +7,7 @@
 	"2019-07-21 07:43:52"
 
 # format
-	https://www.php.net/manual/en/function.date.php
+	<https://www.php.net/manual/en/function.date.php>
 
 	* 연
 		- Y 연도의 완전한 숫자 표현, 4 숫자 예시: 1999나 2003 
